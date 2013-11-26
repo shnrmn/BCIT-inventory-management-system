@@ -1,0 +1,5 @@
+Description|SKU|Retail Price|Discount|Image Name
+Tassimo T46 Home Brewing System|43-0439-6|17999|0.30|0430439_1.jpeg
+Moto Precise Fit Rear Wiper Blade|0210919|799|0.0|0210919_1.jpeg
+Easton Stealth Reflex Composite Hockey Stick|83-4567-0|8999|0.5|0834567_1.jpeg
+Yardworks 4-Ton Log Splitter|60-3823-0|39999|0|0603823_1.jpeg

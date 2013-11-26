@@ -1,0 +1,3 @@
+ID|Description|Street|City|Province|Postal Code|Store Phone|Auto Service
+BC001|GRANDVIEW & BENTALL|2830 Bentall Street|Vancouver|BC|V5M 4H4|604-431-3570|604-431-3572
+BC002|BURNABY SOUTH| 7200 Market Crossing|Burnaby|BC|V5J 0A2|604-451-5888|604-451-5888
